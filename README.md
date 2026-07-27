@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Aadhithya Balu
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=30&pause=1000&color=00F7FF&center=true&vCenter=true&width=750&lines=AI+%26+Data+Science+Student;Full+Stack+Developer;Machine+Learning+Enthusiast;Building+AI+Solutions;Open+Source+Contributor" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=30&pause=1000&color=00F7FF&center=true&vCenter=true&width=750&lines=AI+%26+Data+Science+Student;Full+Stack+Developer;Machine+Learning+Enthusiast;Building+AI+Solutions;Active+learner" />
 
 <p>
 <img src="https://komarev.com/ghpvc/?username=Aadhithya-balu&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
