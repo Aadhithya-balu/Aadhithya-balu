@@ -2,12 +2,12 @@
 
 # 👋 Hi, I'm Aadhithya Balu
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=AI+%26+Data+Science+Student;Full+Stack+Developer;Machine+Learning+Enthusiast;Building+AI+Solutions;Open+Source+Learner" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=30&pause=1000&color=00F7FF&center=true&vCenter=true&width=750&lines=AI+%26+Data+Science+Student;Full+Stack+Developer;Machine+Learning+Enthusiast;Building+AI+Solutions;Open+Source+Contributor" />
 
 <p>
-<img src="https://komarev.com/ghpvc/?username=Aadhithya-balu&label=Profile+Views&color=0e75b6&style=for-the-badge"/>
-<img src="https://img.shields.io/github/followers/Aadhithya-balu?style=for-the-badge"/>
-<img src="https://img.shields.io/github/stars/Aadhithya-balu?style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=Aadhithya-balu&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
+<img src="https://img.shields.io/github/followers/Aadhithya-balu?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/github/stars/Aadhithya-balu?style=for-the-badge&logo=github"/>
 </p>
 
 </div>
@@ -16,15 +16,15 @@
 
 # 🚀 About Me
 
-🎓 B.Tech Artificial Intelligence & Data Science
+🎓 **B.Tech Artificial Intelligence & Data Science**
 
-🏫 Sri Eshwar College of Engineering
+🏫 **Sri Eshwar College of Engineering**
 
-💼 NPTEL Internship @ IIT Madras
+💼 **NPTEL Internship @ IIT Madras**
 
-💻 Passionate about AI, Machine Learning & Full Stack Development
+🤖 Passionate about **Artificial Intelligence, Machine Learning, Full Stack Development & Open Source**
 
-🌱 Currently Learning
+🌱 Currently Exploring
 
 - Large Language Models (LLMs)
 - FastAPI
@@ -32,117 +32,53 @@
 - System Design
 - Cloud Computing
 
-⚡ Fun Fact
+⚡ **Fun Fact**
 
-> I enjoy building AI products that solve real-world problems.
+> "I enjoy building AI solutions that solve real-world problems."
 
 ---
 
-# 🛠 Tech Stack
+# 💻 Tech Stack
 
 ### Languages
 
 <p>
-
 <img src="https://skillicons.dev/icons?i=python,java,cpp,c,javascript,typescript"/>
-
 </p>
 
 ### Frontend
 
 <p>
-
 <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind,bootstrap"/>
-
 </p>
 
 ### Backend
 
 <p>
-
 <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,flask"/>
-
 </p>
 
 ### Database
 
 <p>
-
 <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb"/>
-
 </p>
 
 ### AI / ML
 
 <p>
-
 <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv"/>
-
 </p>
 
 ### Tools
 
 <p>
-
-<img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode,canva,postman"/>
-
+<img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode,postman,figma"/>
 </p>
 
 ---
 
-# 📊 GitHub Analytics
-
-<p align="center">
-
-<img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=Aadhithya-balu&theme=tokyonight&hide_border=true"/>
-
-<img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=Aadhithya-balu&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-# 📈 Most Used Languages
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aadhithya-balu&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Aadhithya-balu&theme=algolia&no-frame=true&row=2&column=4"/>
-
-</p>
-
----
-
-# 📊 Contribution Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Aadhithya-balu&theme=react-dark"/>
-
-</p>
-
----
-
-# 📅 Contribution Calendar
-
-<p align="center">
-
-<img src="https://ghchart.rshah.org/00bfff/Aadhithya-balu" />
-
-</p>
-
----
-
-# ⚡ GitHub Summary Cards
+# 🔥 GitHub Summary
 
 <p align="center">
 
@@ -158,23 +94,63 @@
 
 </p>
 
+<p align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Aadhithya-balu&theme=tokyonight"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Aadhithya-balu&theme=tokyonight&utcOffset=5.5"/>
+
+</p>
+
 ---
 
-# 🔥 Featured Projects
+# 📈 Contribution Graph
 
-### 🛡 SAKSHA
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Aadhithya-balu&theme=tokyo-night"/>
+
+</p>
+
+---
+
+# 📅 Contribution Calendar
+
+<p align="center">
+
+<img src="https://ghchart.rshah.org/Aadhithya-balu"/>
+
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Aadhithya-balu&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6"/>
+
+</p>
+
+---
+
+# 🚀 Featured Projects
+
+## 🛡️ SAKSHA
 
 AI-Powered Crime Intelligence & Analytics Platform
 
 - Crime Prediction
 - Criminal Network Analysis
 - AI Chat Assistant
-- Neo4j + PostgreSQL
-- FastAPI + React
+- Neo4j
+- PostgreSQL
+- FastAPI
+- React
 
 ---
 
-### 🤖 RakshitArtha
+## 🤖 RakshitArtha
 
 AI Financial Intelligence Platform
 
@@ -184,57 +160,64 @@ AI Financial Intelligence Platform
 
 ---
 
-### 🌐 Inaippu
+## 🌐 Inaippu
 
 Community & Emergency Assistance Platform
 
 - AI Matching
-- Real-time Alerts
-- Modern React UI
+- Emergency Assistance
+- Modern React Interface
 
 ---
 
-# 📌 Current Focus
+# 🎯 Current Focus
 
 ```text
 🔭 Building AI Products
+
 🌱 Learning Advanced AI
-⚙ Exploring System Design
+
+⚙️ Exploring System Design
+
 🚀 Contributing to Open Source
 ```
 
 ---
 
-# 📫 Connect With Me
+# 🌐 Connect With Me
 
 <p align="center">
 
-<a href="www.linkedin.com/in/aadhithyabalu">
-<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
+<a href="https://www.linkedin.com/in/aadhithyabalu">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="mailto:aadhithyabalu05@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail"/>
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <a href="https://github.com/Aadhithya-balu">
-<img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </p>
 
 ---
 
-# 💡 Quote
+# 💭 Quote
 
-> "Success is built one commit at a time."
+<div align="center">
+
+> **"Success is built one commit at a time."**
+
+</div>
 
 ---
 
 <div align="center">
 
-### Thanks for visiting!
+### ⭐ Thanks for visiting my profile!
 
-⭐ Star my repositories if you find them useful.
+If you like my work, consider ⭐ starring my repositories.
 
 </div>
